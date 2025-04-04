@@ -1,3 +1,4 @@
+# test
 FROM keking/kkfileview-base:4.4.0
 ADD server/target/kkFileView-*.tar.gz /opt/
 ENV KKFILEVIEW_BIN_FOLDER=/opt/kkFileView-4.4.0/bin
